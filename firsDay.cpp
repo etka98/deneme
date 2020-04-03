@@ -23,6 +23,8 @@ int main()
             cout << g2[i][j] << " ";
         }
     }
+    cout << "you did it" << endl;
+    cout<<"ben kimim";
     cout << "Hello, World!";
     return 0;
 }
