@@ -26,6 +26,7 @@ int main()
     cout << "you did it" << endl;
     cout<<"ben kimim";
     cout<<"github ogreniyorum";
+    cout<<"son deneme";
     cout << "Hello, World!";
     return 0;
 }
