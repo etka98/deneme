@@ -28,5 +28,6 @@ int main()
     cout<<"github ogreniyorum";
     cout<<"son deneme";
     cout << "Hello, World!";
+    cout << "naber yine ben";
     return 0;
 }
